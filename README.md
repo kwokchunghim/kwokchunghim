@@ -8,7 +8,8 @@ I am a MSc of Statistics student from the University of Warwick who specializes 
 * Passionate for AI research projects that make real-life impacts
 * Planning to commence my PhD studies in Machine Learning in 2024
 
-## Programming Skillset
+## Programming Stacks
+Python | R | Java | SQL | Git | Latex | NumPy | Pandas | Scikit Learn | PyTorch | Tensorflow | Matplotlib 
 
 
 <!--
