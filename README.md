@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a MSc of Statistics student from the University of Warwick. I specialize in Machine Learning, Data Mining, Computer Vision, and Natural Language Processing (NLP).
+
 <!--
 **kwokchunghim/kwokchunghim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
