@@ -6,7 +6,6 @@ I am a MSc of Statistics student from the University of Warwick who specializes 
 * Graduated from The Chinese University of Hong Kong with a BSc (Honours) degree in Mathematics
 * Currently pursuing my MSc of Statistics at The University of Warwick
 * Passionate for AI research projects that make real-life impacts
-* Planning to commence my PhD studies in Machine Learning in 2024
 
 ### Tech Stack
 Python | R | Java | SQL | Git | Latex | NumPy | Pandas | Scikit Learn | PyTorch | Tensorflow | Matplotlib 
