@@ -1,11 +1,11 @@
 ## Greetings from Chung Him KWOK 👋
 
-I am a MSc of Statistics student from the University of Warwick who specializes in Machine Learning and Data Mining.
+I am an MSc of Statistics student from the University of Warwick who specializes in Machine Learning and Data Mining.
 
 ### About me 
 * Graduated from The Chinese University of Hong Kong with a BSc (Honours) degree in Mathematics
 * Currently pursuing my MSc of Statistics at The University of Warwick
-* Passionate for AI research projects that make real-life impacts
+* Keen on harnessing the power of AI and Machine Learning to make real-life impacts
 
 ### Tech Stack
 Python | R | Java | SQL | Git | Latex | NumPy | Pandas | Scikit Learn | PyTorch | Tensorflow | Matplotlib 
@@ -18,4 +18,4 @@ Python | R | Java | SQL | Git | Latex | NumPy | Pandas | Scikit Learn | PyTorch 
 * Function Approximation with a simple Neural Network in R
 
 ### MSc Research Project
-* Image-to-text Generation - generating radiological report conditioned on X-Ray Images
+* Image-to-text Generation - Improving Automatic Radiological Report Generation (ARRG) with Deep Learning methods
