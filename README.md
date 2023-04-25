@@ -1,6 +1,6 @@
 ## Greetings from Chung Him KWOK 👋
 
-I am an MSc of Statistics student from the University of Warwick who specializes in Machine Learning and Data Mining.
+I am an MSc Statistics student from the University of Warwick who specializes in Machine Learning and Data Mining.
 
 ### About me 
 * Graduated from The Chinese University of Hong Kong with a BSc (Honours) degree in Mathematics
