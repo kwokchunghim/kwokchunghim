@@ -11,7 +11,8 @@ I am a Machine Learning Engineer at Guidehouse Europe Ltd.
 Python | R | Java | SQL | Git | Latex | NumPy | Pandas | Scikit Learn | PyTorch | Huggingface | Tensorflow | Matplotlib 
 
 ### Data Science Projects
-* Fashion MNIST Image Classification with Classical Machine Learning Methods 
+* Fashion MNIST Image Classification with Classical Machine Learning Methods
+* CONIC Challenge
 * Sentiment Analysis on Tweets with LSTM, BERT and Sentence BERT
 * Image Analysis with CNN Transfer Learning 
 * An R Implementation of Markov Chain Monte Carlo (MCMC)
