@@ -1,4 +1,4 @@
-## Greetings from Chung Him KWOK 👋
+## Greetings from Chung Him (Tony) KWOK 👋
 
 I am an incoming Machine Learning Engineer @Trainline.
 
