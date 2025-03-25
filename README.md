@@ -36,9 +36,6 @@ I love working at the intersection of research and engineering, from fine-tuning
 - 🩻 **X-Raydar / GIT-ARRG-X**  
   Developed a vision-language model for chest X-ray report generation in an NHS-backed project with Prof. Giovanni Montana.
 
-- 🧪 **CLTV Prediction Pipelines**  
-  Built and deployed customer lifetime value models for marketing interventions and churn reduction.
-
 ---
 
 ## ⚙️ Tech Stack
