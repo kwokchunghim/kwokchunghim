@@ -4,15 +4,14 @@
 London, United Kingdom 🇬🇧
 
 I build **reliable, scalable, production-grade ML systems**, with a focus on
-**personalising user journeys to drive conversion and monetisation**.  
-I enjoy owning models end-to-end — from offline training and evaluation to
+**personalising user journeys to drive conversion and monetisation**. I enjoy owning models end-to-end — from offline training and evaluation to
 online deployment and impact measurement.
 
 ---
 
 ## 💼 Experience
 
-### 🎧 Spotify — Machine Learning Engineer I  
+### 🎧 Spotify — Machine Learning Engineer 
 **Nov 2025 – Present | London, UK**
 
 Working on large-scale machine learning systems supporting Spotify’s
@@ -20,7 +19,7 @@ subscription platforms.
 
 ---
 
-### 🚆 Trainline — Junior Machine Learning Engineer  
+### 🚆 Trainline — Machine Learning Engineer  
 **Jun 2024 – Nov 2025 | London, UK**
 
 - Productionised **contextual bandit models** for banner optimisation and ads targeting.
@@ -32,7 +31,7 @@ subscription platforms.
 
 ---
 
-### 🏢 Guidehouse — Machine Learning Engineer (Consultant II)  
+### 🏢 Guidehouse — Machine Learning Engineer (Consultant)  
 **Aug 2023 – May 2024 | London, UK**
 
 Worked on applied ML solutions across data engineering, modelling, and deployment
