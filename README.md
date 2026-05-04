@@ -14,28 +14,20 @@ online deployment and impact measurement.
 ### 🎧 Spotify — Machine Learning Engineer 
 **Nov 2025 – Present | London, UK**
 
-Working on large-scale machine learning systems supporting Spotify’s
-subscription platforms.
+Subcriptions - User understanding.
 
 ---
 
 ### 🚆 Trainline — Machine Learning Engineer  
 **Jun 2024 – Nov 2025 | London, UK**
 
-- Productionised **contextual bandit models** for banner optimisation and ads targeting.
-  Owned the full lifecycle: off-policy batch training, **counterfactual policy evaluation**,
-  exploration strategy, and **online A/B testing**, improving ticket conversion and ads revenue.
-- Developed and deployed a **Python Client SDK** enabling in-session context caching and
-  real-time feature retrieval on **Redis / Valkey**, reducing average inference latency by **up to 40%**.
-- Implemented a **Customer Lifetime Value (CLTV)** prediction model powering retention campaigns.
+Customer LTV
 
 ---
 
 ### 🏢 Guidehouse — Machine Learning Engineer (Consultant)  
 **Aug 2023 – May 2024 | London, UK**
 
-Worked on applied ML solutions across data engineering, modelling, and deployment
-for large-scale industrial and public-sector systems.
 
 ---
 
@@ -70,7 +62,7 @@ Ray, PyTorch, TensorFlow (TFX), Hugging Face, XGBoost
 GCP (BigQuery, Bigtable, Dataflow), AWS (Athena, EMR), Redis
 
 **ML Platforms**  
-Databricks, Kubeflow (Spotify), MLflow, Feast, Vertex AI, NVIDIA Triton
+Databricks, Kubeflow (Spotify), MLflow, Feast, NVIDIA Triton
 
 **DevOps & Orchestration**  
 Flyte, Airflow, Jenkins, Kubernetes (GKE), AWS ECS, Docker, Terraform
