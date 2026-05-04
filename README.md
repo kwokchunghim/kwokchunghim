@@ -3,7 +3,7 @@
 **Machine Learning Engineer at Spotify** 🎧  
 London, United Kingdom 🇬🇧
 
-Transiioning from ML Engineering to my builder era.
+Transitioning from ML Engineering to my builder era.
 
 ---
 
