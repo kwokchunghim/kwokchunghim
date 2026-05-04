@@ -3,9 +3,7 @@
 **Machine Learning Engineer at Spotify** 🎧  
 London, United Kingdom 🇬🇧
 
-I build **reliable, scalable, production-grade ML systems**, with a focus on
-**personalising user journeys to drive conversion and monetisation**. I enjoy owning models end-to-end — from offline training and evaluation to
-online deployment and impact measurement.
+Transiioning from ML Engineering to my builder era.
 
 ---
 
