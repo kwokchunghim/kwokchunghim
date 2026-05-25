@@ -12,14 +12,14 @@ Transitioning from ML Engineering to my builder era.
 ### 🎧 Spotify — Machine Learning Engineer 
 **Nov 2025 – Present | London, UK**
 
-Subcriptions - User understanding.
+ML for Growth and Monetization
 
 ---
 
 ### 🚆 Trainline — Machine Learning Engineer  
 **Jun 2024 – Nov 2025 | London, UK**
 
-Customer LTV
+ML for Growth and Monetization
 
 ---
 
@@ -32,14 +32,14 @@ Customer LTV
 ### 🏥 University of Hong Kong — Applied Data Scientist (Research Assistant II)  
 **Aug 2021 – May 2022 | Hong Kong (Remote)**
 
-Applied deep learning and computer vision techniques in medical imaging research.
+Deep learning and computer vision in medical imaging.
 
 ---
 
 ## 🧪 Projects
 
 ### 🩻 GIT-ARRG-X (X-Raydar Project)
-Developed a **vision–language model** for chest X-ray report generation using
+Before vision LLM took over the field, I eveloped a **vision–language model** for chest X-ray report generation using
 **Generative Image Transformers (GIT)** as part of **X-Raydar**, an
 NHS-backed research initiative led by **Prof. Giovanni Montana**.
 
