@@ -1,86 +1,97 @@
 # 👋 Tony C.H. Kwok
 
-**Machine Learning Engineer at Spotify** 🎧  
-London, United Kingdom 🇬🇧
+**Machine Learning Engineer at Spotify**
+📍 London, United Kingdom
 
-Transitioning from ML Engineering to my builder era.
+I work on machine learning systems for personalization, customer understanding, experimentation, retention, and growth.
+
+My interests include causal machine learning, decision-making under uncertainty, constrained optimization, and building systems that turn predictions into better business decisions.
 
 ---
 
 ## 💼 Experience
 
-### 🎧 Spotify — Machine Learning Engineer 
+### 🎧 Spotify — Machine Learning Engineer
+
 **Nov 2025 – Present | London, UK**
 
-ML for Growth and Monetization
+Building machine learning systems to personalize subscription grace periods, improving retention and net revenue.
+
+**Areas:** Retention · Customer Understanding · Subscriptions
 
 ---
 
-### 🚆 Trainline — Machine Learning Engineer  
+### 🚆 Trainline — Machine Learning Engineer
+
 **Jun 2024 – Nov 2025 | London, UK**
 
-ML for Growth and Monetization
+Worked on customer lifetime value modelling and profitable growth initiatives, including predictive modelling and contextual bandits for conversion optimization.
+
+**Areas:** Growth Systems · Personalization · Customer LTV
 
 ---
 
-### 🏢 Guidehouse — Machine Learning Engineer (Consultant)  
+### 🏢 Guidehouse — Machine Learning Engineer (Consultant)
+
 **Aug 2023 – May 2024 | London, UK**
 
+Built machine learning solutions for gas distribution network digital twins.
+
+**Areas:** Property Graphs · Digital Twins
 
 ---
 
-### 🏥 University of Hong Kong — Applied Data Scientist (Research Assistant II)  
-**Aug 2021 – May 2022 | Hong Kong (Remote)**
+### 🏥 University of Hong Kong — Research Assistant (Medical AI)
 
-Deep learning and computer vision in medical imaging.
+**Aug 2021 – May 2022 | Hong Kong**
 
----
+Applied deep learning and computer vision techniques to orthopaedic medical imaging.
 
-## 🧪 Projects
-
-### 🩻 GIT-ARRG-X (X-Raydar Project)
-Before vision LLM took over the field, I eveloped a **vision–language model** for chest X-ray report generation using
-**Generative Image Transformers (GIT)** as part of **X-Raydar**, an
-NHS-backed research initiative led by **Prof. Giovanni Montana**.
-
-The model improved the **clinical quality and coherence** of AI-generated
-radiological reports.
+**Areas:** Medical Imaging · Deep Learning
 
 ---
 
-## 🛠️ Technical Skills
+## 🧪 Selected Project
 
-**Programming**  
-Python, SQL, Scala (Scio), Java (Elementary)
+### 🩻 GIT-ARRG-X (X-Raydar)
 
-**ML Frameworks**  
-Ray, PyTorch, TensorFlow (TFX), Hugging Face, XGBoost
+Developed a vision-language model for automated chest X-ray report generation as part of **X-Raydar**, an NHS-backed research initiative led by Prof. Giovanni Montana.
 
-**Data Platforms**  
-GCP (BigQuery, Bigtable, Dataflow), AWS (Athena, EMR), Redis
+Built on **Generative Image Transformers (GIT)**, the system improved the clinical quality and coherence of AI-generated radiology reports.
 
-**ML Platforms**  
-Databricks, Kubeflow (Spotify), MLflow, Feast, NVIDIA Triton
+---
 
-**DevOps & Orchestration**  
-Flyte, Airflow, Jenkins, Kubernetes (GKE), AWS ECS, Docker, Terraform
+## 🎯 Areas of Interest
+
+* Personalization
+* Growth Systems
+* Experimentation
+* Decision Intelligence
+* Causal Machine Learning
+* Machine Learning Infrastructure
 
 ---
 
 ## 🎓 Education
 
-**MSc Statistics** — University of Warwick  
-*Distinction • Winton Dissertation Prize Winner*  
-2022 – 2023
+### University of Warwick
 
-**BSc Mathematics (Honours)** — The Chinese University of Hong Kong  
-*Enrichment Mathematics Scholarship (Top 30 nationwide admits)*  
-2016 – 2020
+**MSc Statistics (Distinction)**
+
+* Winton Dissertation Prize Winner
+
+### Chinese University of Hong Kong
+
+**BSc Mathematics (Honours)**
+
+* Enrichment Mathematics Scholarship
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-- 📧 Email: **tonyk@spotify.com**
-- 💼 LinkedIn: [linkedin.com/in/tonykwokch](https://linkedin.com/in/tonykwokch)
-- 💻 Website: [https://tonykwokch.com](https://tonykwokch.com)
+🌐 Website: https://tonykwokch.com
+
+💼 LinkedIn: https://linkedin.com/in/tonykwokch
+
+💻 GitHub: https://github.com/tonykwok730
